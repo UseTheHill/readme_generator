@@ -4,11 +4,11 @@ const fs = require('fs');
 inquirer
     .prompt([
         {
-            type: ,
-            message: ,
-            name: ,
-        }
-    ]);
+            type: 'input',
+            message: 'What is your GitHub username?',
+            name: 'username',
+        },
+    ])
 
     //then
     .then((response) => {
