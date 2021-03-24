@@ -60,46 +60,49 @@ inquirer
     .then((response) => {
         console.log('response: ', response)
 
-    const readmedoc = `#${response.title}
+const readmedoc = `
+
+# ${response.title}
     
-    ![GitHub](https://img.shields.io/badge/License-${response.license}-green)
+![GitHub](https://img.shields.io/badge/License-${response.license}-green)
 
     
-    ## Table of Contents 
-    [Description](#description)  
-    [Installation](#installation)  
-    [Usage](#usage)  
-    [Credits](#credits)  
-    [License](#license)  
-    [Contributing](#contributing)  
-    [Tests](#tests)  
-    [Questions](#questions)  
-    
+## Table of Contents 
+[Description](#description)  
+[Installation](#installation)  
+[Usage](#usage)  
+[Credits](#credits)  
+[License](#license)  
+[Contributing](#contributing)  
+[Tests](#tests)  
+[Questions](#questions)  
 
-    ## Description
-    ${response.description}
 
-    ## Installation
-    ${response.installation}
+## Description
+${response.description}
 
-    ## Usage
-    ${response.usage}
+## Installation
+${response.installation}
 
-    ## Credits
-    ${response.credits}
+## Usage
+${response.usage}
 
-    ## License 
-    Copyright & copy; Licensed under the ${response.license} license.
+## Credits
+${response.credits}
 
-    ## Contributing
-    ${response.contributing}
+## License 
+Copyright & copy; Licensed under the ${response.license} license.
 
-    ## Tests
-    ${response.tests}
+## Contributing
+${response.contributing}
 
-    ## Questions
-    Conact me at ${response.email} with questions. You can submit a pull request or issue on GitHub [https://github.com/${response.username}](https://github.com/${response.username}).`;
-    
+## Tests
+${response.tests}
+
+## Questions
+Conact me at ${response.email} with questions. You can submit a pull request or issue on GitHub [https://github.com/${response.username}](https://github.com/${response.username}).
+`;
+
 
     fs.writeFile('README.md', readmedoc, (err) => err ? console.error(err) : console.log('Success!'));
     });

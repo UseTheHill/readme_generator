@@ -1,7 +1,7 @@
 {
   "name": "readme_generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "![GitHub](https://img.shields.io/badge/License-MIT-green)",
   "main": "index.js",
   "dependencies": {
     "inquirer": "^8.0.0"
