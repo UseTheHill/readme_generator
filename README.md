@@ -29,7 +29,7 @@ tbd
 tbd
 
 ## License 
-Copyright & copy; Licensed under the MIT license.
+Copyright &#169; 2021 Licensed under the MIT license.
 
 ## Contributing
 tbd

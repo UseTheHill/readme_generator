@@ -30,7 +30,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'What are the instruction and examples for use?',
+            message: 'Provide instructions for use?',
             name: 'usage',
         },
         {
@@ -40,13 +40,13 @@ inquirer
         },
         {
             type: 'list',
-            message: 'Select a license type.',
+            message: 'Select a license type from below.',
             choices: ['MIT', 'GPLv2', 'Apache', 'Other'],
             name: 'license',
         },
         {
             type: 'input',
-            message: 'What are the contribution guidelines?',
+            message: 'Add guidelines for how others can contribute to the project.',
             name: 'contributing',
         },
         {
@@ -91,7 +91,7 @@ ${response.usage}
 ${response.credits}
 
 ## License 
-Copyright & copy; Licensed under the ${response.license} license.
+Copyright &#169; 2021 Licensed under the ${response.license} license.
 
 ## Contributing
 ${response.contributing}
