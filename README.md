@@ -1,6 +1,6 @@
 
 
-# stupid
+# readme_generator
     
 ![GitHub](https://img.shields.io/badge/License-MIT-green)
 
@@ -17,25 +17,25 @@
 
 
 ## Description
-idid
+Generate a professional README from your terminal. Answer the prompts and a README file will generate in the current directory with markdown syntax.
 
 ## Installation
-didi
+npm -i
 
 ## Usage
-didi
+tbd
 
 ## Credits
-
+tbd
 
 ## License 
 Copyright & copy; Licensed under the MIT license.
 
 ## Contributing
-dii
+tbd
 
 ## Tests
-id
+tbd
 
 ## Questions
-Conact me at this.com with questions. You can submit a pull request or issue on GitHub [https://github.com/kayte](https://github.com/kayte).
+Conact me at kaytemcdonough@gmail.com with questions. You can submit a pull request or issue on GitHub [https://github.com/UseTheHill](https://github.com/UseTheHill).
