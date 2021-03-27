@@ -1,6 +1,6 @@
 
 
-# readme_generator
+# tbd
     
 ![GitHub](https://img.shields.io/badge/License-MIT-green)
 
@@ -17,25 +17,25 @@
 
 
 ## Description
-generates a readme file
+tbd
 
 ## Installation
 npm i
 
 ## Usage
-node index.js and then answer the questions. Then open readme file
+tbd
 
 ## Credits
-N/A
+tbd
 
 ## License 
 Copyright &#169; 2021 Licensed under the MIT license.
 
 ## Contributing
-clone from GitHub
+tbd
 
 ## Tests
 npm test
 
 ## Questions
-Conact me at kaytemcdonough@gmail.com with questions. You can submit a pull request or issue on GitHub [https://github.com/UseTheHill](https://github.com/UseTheHill).
+Conact me at kaytemcdonough@gmail.com with questions. You can submit a pull request or issue on GitHub [https://github.com/usethehill](https://github.com/usethehill).
