@@ -1,6 +1,6 @@
 
 
-# tbd
+# readme_generator
     
 ![GitHub](https://img.shields.io/badge/License-MIT-green)
 
@@ -17,25 +17,25 @@
 
 
 ## Description
-tbd
+generate a professional README from your terminal!  Follow a series of prompts and a README file will generate in the current directory with markdown syntax.
 
 ## Installation
 npm i
 
 ## Usage
-tbd
+![readme_generator](assets/readme_generator.gif)
 
 ## Credits
-tbd
+n/a
 
 ## License 
 Copyright &#169; 2021 Licensed under the MIT license.
 
 ## Contributing
-tbd
+git clone from GitHub
 
 ## Tests
 npm test
 
 ## Questions
-Conact me at kaytemcdonough@gmail.com with questions. You can submit a pull request or issue on GitHub [https://github.com/usethehill](https://github.com/usethehill).
+Conact me at kaytemcdonough@gmail.com with questions. You can submit a pull request or issue on GitHub [https://github.com/UseTheHill](https://github.com/UseTheHill).

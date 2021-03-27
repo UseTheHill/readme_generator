@@ -31,7 +31,7 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Provide instructions for use?',
+            message: 'Usage?',
             name: 'usage',
         },
         {
