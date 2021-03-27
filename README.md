@@ -17,25 +17,25 @@
 
 
 ## Description
-Generate a professional README from your terminal. Answer the prompts and a README file will generate in the current directory with markdown syntax.
+generates a readme file
 
 ## Installation
-npm -i
+npm i
 
 ## Usage
-tbd
+node index.js and then answer the questions. Then open readme file
 
 ## Credits
-tbd
+N/A
 
 ## License 
 Copyright &#169; 2021 Licensed under the MIT license.
 
 ## Contributing
-tbd
+clone from GitHub
 
 ## Tests
-tbd
+npm test
 
 ## Questions
 Conact me at kaytemcdonough@gmail.com with questions. You can submit a pull request or issue on GitHub [https://github.com/UseTheHill](https://github.com/UseTheHill).
