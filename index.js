@@ -27,6 +27,7 @@ inquirer
             type: 'input',
             message: 'How can users install the necessary dependencies to use the project on their local machine?',
             name: 'installation',
+            default: 'npm i',
         },
         {
             type: 'input',
@@ -53,6 +54,7 @@ inquirer
             type: 'input',
             message: 'Write tests for your application and provide examples on how to run them.',
             name: 'tests',
+            default: 'npm test',
         },
     ])
 
